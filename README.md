@@ -14,4 +14,4 @@ Copy the **Dracula.style** and **Dracula+.style** file into your MacDown Themes 
 
 Open MacDown's Preferences and navigate to the Editor tab. Select Dracula in the Theme: dropdown. You may need to hit the Reload button.
 
-![image](https://raw.githubusercontent.com/markaplet/macdown-theme-dracula/master/screenshots/mou-prefs.png)
+![image](https://raw.githubusercontent.com/markaplet/macdown-theme-dracula/master/screenshots/prefs.png)
